@@ -66,7 +66,7 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(1234, 83);
+            this.panel1.Size = new System.Drawing.Size(1301, 83);
             this.panel1.TabIndex = 0;
             // 
             // label1
@@ -147,34 +147,34 @@
             // 
             // regNoTxt
             // 
-            this.regNoTxt.Location = new System.Drawing.Point(218, 128);
+            this.regNoTxt.Location = new System.Drawing.Point(188, 127);
             this.regNoTxt.Multiline = true;
             this.regNoTxt.Name = "regNoTxt";
-            this.regNoTxt.Size = new System.Drawing.Size(321, 33);
+            this.regNoTxt.Size = new System.Drawing.Size(266, 33);
             this.regNoTxt.TabIndex = 2;
             // 
             // nameTxt
             // 
-            this.nameTxt.Location = new System.Drawing.Point(218, 191);
+            this.nameTxt.Location = new System.Drawing.Point(188, 190);
             this.nameTxt.Multiline = true;
             this.nameTxt.Name = "nameTxt";
-            this.nameTxt.Size = new System.Drawing.Size(321, 33);
+            this.nameTxt.Size = new System.Drawing.Size(266, 33);
             this.nameTxt.TabIndex = 2;
             // 
             // semTxt
             // 
-            this.semTxt.Location = new System.Drawing.Point(218, 316);
+            this.semTxt.Location = new System.Drawing.Point(188, 315);
             this.semTxt.Multiline = true;
             this.semTxt.Name = "semTxt";
-            this.semTxt.Size = new System.Drawing.Size(321, 33);
+            this.semTxt.Size = new System.Drawing.Size(266, 33);
             this.semTxt.TabIndex = 2;
             // 
             // fNameTxt
             // 
-            this.fNameTxt.Location = new System.Drawing.Point(218, 254);
+            this.fNameTxt.Location = new System.Drawing.Point(188, 253);
             this.fNameTxt.Multiline = true;
             this.fNameTxt.Name = "fNameTxt";
-            this.fNameTxt.Size = new System.Drawing.Size(321, 33);
+            this.fNameTxt.Size = new System.Drawing.Size(266, 33);
             this.fNameTxt.TabIndex = 2;
             // 
             // sectionCombo
@@ -193,11 +193,11 @@
             "B",
             "C",
             "D"});
-            this.sectionCombo.Location = new System.Drawing.Point(218, 388);
+            this.sectionCombo.Location = new System.Drawing.Point(188, 387);
             this.sectionCombo.Name = "sectionCombo";
             this.sectionCombo.OnHoverItemBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
             this.sectionCombo.OnHoverItemForeColor = System.Drawing.Color.White;
-            this.sectionCombo.Size = new System.Drawing.Size(321, 31);
+            this.sectionCombo.Size = new System.Drawing.Size(266, 31);
             this.sectionCombo.TabIndex = 3;
             // 
             // label8
@@ -213,10 +213,10 @@
             // 
             // gpaTxt
             // 
-            this.gpaTxt.Location = new System.Drawing.Point(217, 455);
+            this.gpaTxt.Location = new System.Drawing.Point(187, 454);
             this.gpaTxt.Multiline = true;
             this.gpaTxt.Name = "gpaTxt";
-            this.gpaTxt.Size = new System.Drawing.Size(321, 33);
+            this.gpaTxt.Size = new System.Drawing.Size(266, 33);
             this.gpaTxt.TabIndex = 2;
             // 
             // insertBtn
@@ -237,7 +237,7 @@
             this.insertBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(50)))), ((int)(((byte)(80)))));
             this.insertBtn.IdleForecolor = System.Drawing.Color.White;
             this.insertBtn.IdleLineColor = System.Drawing.Color.White;
-            this.insertBtn.Location = new System.Drawing.Point(119, 540);
+            this.insertBtn.Location = new System.Drawing.Point(80, 540);
             this.insertBtn.Margin = new System.Windows.Forms.Padding(5);
             this.insertBtn.Name = "insertBtn";
             this.insertBtn.Size = new System.Drawing.Size(111, 51);
@@ -263,7 +263,7 @@
             this.updateBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(50)))), ((int)(((byte)(80)))));
             this.updateBtn.IdleForecolor = System.Drawing.Color.White;
             this.updateBtn.IdleLineColor = System.Drawing.Color.White;
-            this.updateBtn.Location = new System.Drawing.Point(253, 540);
+            this.updateBtn.Location = new System.Drawing.Point(214, 540);
             this.updateBtn.Margin = new System.Windows.Forms.Padding(5);
             this.updateBtn.Name = "updateBtn";
             this.updateBtn.Size = new System.Drawing.Size(111, 51);
@@ -289,7 +289,7 @@
             this.deleteBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(50)))), ((int)(((byte)(80)))));
             this.deleteBtn.IdleForecolor = System.Drawing.Color.White;
             this.deleteBtn.IdleLineColor = System.Drawing.Color.White;
-            this.deleteBtn.Location = new System.Drawing.Point(398, 540);
+            this.deleteBtn.Location = new System.Drawing.Point(359, 540);
             this.deleteBtn.Margin = new System.Windows.Forms.Padding(5);
             this.deleteBtn.Name = "deleteBtn";
             this.deleteBtn.Size = new System.Drawing.Size(111, 51);
@@ -315,7 +315,7 @@
             this.searchBtn.IdleFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(50)))), ((int)(((byte)(80)))));
             this.searchBtn.IdleForecolor = System.Drawing.Color.White;
             this.searchBtn.IdleLineColor = System.Drawing.Color.White;
-            this.searchBtn.Location = new System.Drawing.Point(541, 540);
+            this.searchBtn.Location = new System.Drawing.Point(502, 540);
             this.searchBtn.Margin = new System.Windows.Forms.Padding(5);
             this.searchBtn.Name = "searchBtn";
             this.searchBtn.Size = new System.Drawing.Size(111, 51);
@@ -328,7 +328,7 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Century Gothic Paneuropean", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(795, 153);
+            this.label9.Location = new System.Drawing.Point(794, 153);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(171, 28);
             this.label9.TabIndex = 0;
@@ -338,10 +338,11 @@
             // 
             this.dataGrid.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(71)))), ((int)(((byte)(105)))));
             this.dataGrid.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.dataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGrid.ColumnHeadersHeight = 29;
+            this.dataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.dataGrid.GridColor = System.Drawing.Color.Black;
             this.dataGrid.ImeMode = System.Windows.Forms.ImeMode.Off;
-            this.dataGrid.Location = new System.Drawing.Point(605, 191);
+            this.dataGrid.Location = new System.Drawing.Point(486, 191);
             this.dataGrid.Margin = new System.Windows.Forms.Padding(10);
             this.dataGrid.Name = "dataGrid";
             dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
@@ -358,14 +359,14 @@
             dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.Black;
             this.dataGrid.RowsDefaultCellStyle = dataGridViewCellStyle2;
             this.dataGrid.RowTemplate.Height = 24;
-            this.dataGrid.Size = new System.Drawing.Size(596, 296);
+            this.dataGrid.Size = new System.Drawing.Size(796, 296);
             this.dataGrid.TabIndex = 5;
             this.dataGrid.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.Cell_Clicked);
             // 
             // close
             // 
             this.close.Image = ((System.Drawing.Image)(resources.GetObject("close.Image")));
-            this.close.Location = new System.Drawing.Point(1189, 10);
+            this.close.Location = new System.Drawing.Point(1253, 12);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(36, 36);
             this.close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -378,7 +379,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(66)))), ((int)(((byte)(71)))), ((int)(((byte)(105)))));
-            this.ClientSize = new System.Drawing.Size(1234, 682);
+            this.ClientSize = new System.Drawing.Size(1301, 682);
             this.Controls.Add(this.dataGrid);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.searchBtn);
