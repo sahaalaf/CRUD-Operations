@@ -25,9 +25,8 @@ This repository contains a CRUD (Create, Read, Update, Delete) application devel
 
 ### Screenshots:
 
-![Screenshot 1](/Desktop/crud1.PNG)<br>
-![Screenshot 2](/screenshots/screenshot2.png)<br>
-![Screenshot 3](/screenshots/screenshot3.png)<br>
+![Crud](https://github.com/sahaalaf/CRUD-Operations/assets/161157185/12cbe0ab-ad8d-4b28-acc5-aeaaaf4c60c4)<br>
+![crud1](https://github.com/sahaalaf/CRUD-Operations/assets/161157185/e5ddf7cc-ef3e-47ff-beba-d4bb2cbe97ef)<br>
 
 ### Contributing:
 
