@@ -25,7 +25,7 @@ This repository contains a CRUD (Create, Read, Update, Delete) application devel
 
 ### Screenshots:
 
-![Screenshot 1](/screenshots/screenshot1.png)<br>
+![Screenshot 1](/Desktop/crud1.PNG)<br>
 ![Screenshot 2](/screenshots/screenshot2.png)<br>
 ![Screenshot 3](/screenshots/screenshot3.png)<br>
 
